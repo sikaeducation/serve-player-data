@@ -1,7 +1,5 @@
 {
     "dependencies": {
-        "cors": "^2.8.4",
-        "express": "^4.15.4"
     },
     "name": "serve-player-data",
     "version": "0.0.1",
